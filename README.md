@@ -27,6 +27,28 @@ H3K9ac
 
 H4K20me1
 
+и файлы соотвественно
+
+wgEncodeBroadHistoneHepg2H2az
+
+wgEncodeBroadHistoneHepg2H3k27ac
+
+wgEncodeBroadHistoneHepg2H3k27me3
+
+wgEncodeBroadHistoneHepg2H3k36me3
+
+wgEncodeBroadHistoneHepg2H3k04me1
+
+wgEncodeBroadHistoneHepg2H3k4me2
+
+wgEncodeBroadHistoneHepg2H3k4me3
+
+wgEncodeBroadHistoneHepg2H3k79me2
+
+wgEncodeBroadHistoneHepg2H3k9ac
+
+wgEncodeBroadHistoneHepg2H4k20me1
+
 И контрольный образец можно найти [тут](http://hgdownload.cse.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeBroadHistone/wgEncodeBroadHistoneHepg2ControlStdAlnRep1.bam)
 
 ## Графики ChromHMM
